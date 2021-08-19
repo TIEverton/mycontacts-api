@@ -11,14 +11,13 @@
 ## 🔖 Summary
 
 - [Project](#-project)
-- [Technologies](#-Technologies)
-- [Getting started](#-Getting-started)
+- [Technologies](#-technologies)
+- [Getting started](#-getting-started)
   - [Downloading the project](#%EF%B8%8F-downloading-the-project)
-  - [Preparing the environment](#-preparando-o-ambiente)
-    - [Bancos de dados e tabelas](#-bancos-de-dados-e-tabelas)
-    - [Variáveis de ambiente](#-variáveis-de-ambiente)
-  - [Executando a API](#-executando-a-api)
-- [Rotas da API](#-rotas-da-api)
+  - [Preparing the environment](#-preparing-the-environment)
+    - [Database and table](#-database-and-table)
+  - [Running the API](#-running-the-api)
+- [API Routes](#-api-routes)
 
 ## 💻 Project
 
