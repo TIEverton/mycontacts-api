@@ -21,7 +21,7 @@
 
 ## 💻 Project
 
-mycontactsapi was a project created to develop the first contact with backend frameworks, I could create a CRUD (create, read, update, delete) of My Contacts.
+mycontactsapi was a project created to develop the first contact with backend frameworks, I created a CRUD (create, read, update, delete) of My Contacts using docker and postgres to store the data.
 
 ## 🔌 Technologies
 
