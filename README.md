@@ -29,6 +29,8 @@ This project was developed using the following technologies:
 
 - [NodeJS](https://nodejs.org)
 - [Express](https://expressjs.com)
+- [Docker](https://www.docker.com/)
+- [Postgres](https://www.postgresql.org/)
 - [ESLint](https://eslint.org)
 - [Nodemon](https://nodemon.io/)
 
